@@ -16,4 +16,3 @@ This project automates email confirmations when a Google Form is submitted.
 ## 📁 Files Included
 - `Code.gs`: Main Google Apps Script code
 - `Form_Details.md`: Google Form structure
-- `sample_output/`: Email screenshots or PDF samples
